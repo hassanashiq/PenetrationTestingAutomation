@@ -1,0 +1,29 @@
+Hello Guys 😎
+
+Hope you all are doing well.
+
+Let's talk about this file.
+
+It used the Asset Finder by Tomnomnom
+
+I just automated it for my own ease.
+
+✏ How to Use ✏
+◾ Load the file in Linux.
+◾ Give execution permission by using chmod +x AssetFinderAutomated.sh
+
+🏃‍♂️ To run 🏃‍
+./AssetFinderAutomated.sh <domain name>
+
+example :
+./AssetFinderAutomated.sh spacex.com
+
+It will create a folder by the same name as your domain. If you are using the example, it will create a folder by name  tesla.com.
+The results of the search will be in that folder.
+
+📍Remember 📍
+Asset Finder results by default contains some results that are related to your domain. I have changed it to have only the subdomains of the given domain.
+
+Thank You
+
+
