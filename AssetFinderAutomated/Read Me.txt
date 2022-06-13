@@ -18,7 +18,7 @@ I just automated it for my own ease.
 example :
 ./AssetFinderAutomated.sh spacex.com
 
-It will create a folder by the same name as your domain. If you are using the example, it will create a folder by name  tesla.com.
+It will create a folder by the same name as your domain. If you are using the example, it will create a folder by name  spacex.com
 The results of the search will be in that folder.
 
 📍Remember 📍
