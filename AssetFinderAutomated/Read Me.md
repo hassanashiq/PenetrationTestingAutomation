@@ -25,8 +25,8 @@ The results will be in that folder in two files.
   2. alive.txt -> this file contains all the active subdomains find by the assetfinder in first step.
 
 
-📍Remember 📍
-Asset Finder results by default contains some results that are related to your domain. I have changed it to have only the subdomains of the given domain.
+📍Remember 📍<br>
+Asset Finder results by default contains some results that are related to your domain but not the subdomain of the given domain. I have changed it to have only the subdomains of the given domain.
 
 Thank You
 
